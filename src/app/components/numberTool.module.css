@@ -1,0 +1,90 @@
+.container {
+  max-width: 740px;
+  margin: 3rem auto;
+  padding: 2.5rem;
+  background: #1c1e26;
+  border-radius: 20px;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.3);
+  font-family: "Courier New", monospace;
+  color: #f4f4f4;
+  text-align: center;
+}
+
+.container h2 {
+  font-size: 2rem;
+  color: #ffd54f;
+  margin-bottom: 2rem;
+  font-weight: bold;
+}
+
+.input {
+  width: 96%;
+  padding: 0.9rem;
+  font-size: 1.1rem;
+  border: 2px solid #555;
+  border-radius: 8px;
+  background-color: #2b2e38;
+  color: #fff;
+  transition: border 0.2s ease;
+}
+
+.input:focus {
+  border-color: #ffd54f;
+  outline: none;
+}
+
+.controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  justify-content: center;
+  margin: 1.5rem 0;
+}
+
+.controls select,
+.param {
+  padding: 0.6rem 1rem;
+  font-size: 1.05rem;
+  border: 2px solid #666;
+  border-radius: 8px;
+  background-color: #2b2e38;
+  color: #fff;
+  min-width: 180px;
+  transition: border 0.3s ease;
+}
+
+.controls select:focus,
+.param:focus {
+  border-color: #ffd54f;
+  outline: none;
+}
+
+.btn {
+  margin-top: 1rem;
+  padding: 0.75rem 1.6rem;
+  font-size: 1.05rem;
+  font-weight: bold;
+  background-color: #ffd54f;
+  color: #1c1e26;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background 0.3s ease, transform 0.1s ease;
+}
+
+.btn:hover {
+  background-color: #ffca28;
+  transform: scale(1.03);
+}
+
+.output {
+  margin-top: 2rem;
+  padding: 1.2rem;
+  background: #2b2e38;
+  border: 2px dashed #ffd54f;
+  border-radius: 12px;
+  font-size: 1.1rem;
+  color: #f1f1f1;
+  text-align: left;
+  word-wrap: break-word;
+}
