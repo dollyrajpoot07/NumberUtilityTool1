@@ -34,7 +34,8 @@ This React-based utility allows users to experiment with frequently used JavaScr
 
 ## 📸 Preview
 
-> (Insert screenshot of the dark calculator-style UI)
+<img width="889" alt="Screenshot 2025-07-07 at 1 53 00 AM" src="https://github.com/user-attachments/assets/0d8e8569-d202-4c2b-baea-32be41d18bd6" />
+<img width="898" alt="Screenshot 2025-07-07 at 1 53 18 AM" src="https://github.com/user-attachments/assets/34fea017-4dac-4fa1-8f18-1bd139ff5726" />
 
 ---
 
@@ -55,7 +56,4 @@ This React-based utility allows users to experiment with frequently used JavaScr
 - Controlled components for user input
 
 ---
-
-<img width="889" alt="Screenshot 2025-07-07 at 1 53 00 AM" src="https://github.com/user-attachments/assets/0d8e8569-d202-4c2b-baea-32be41d18bd6" />
-<img width="898" alt="Screenshot 2025-07-07 at 1 53 18 AM" src="https://github.com/user-attachments/assets/34fea017-4dac-4fa1-8f18-1bd139ff5726" />
 
